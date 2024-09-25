@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "target": "ES6",
+        "jsx": "react",
+        "sourceMap": true,
+        "outDir": "dist",
+        "allowJs": true
+    },
+    "include": ["./**/*"],
+    "exclude": ["node_modules"]
+}
