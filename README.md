@@ -6,7 +6,6 @@
 - cd server
 - npm start
 
-
 ## server setup
 - npm init -y
 - npm install --save-dev typescript ts-loader
